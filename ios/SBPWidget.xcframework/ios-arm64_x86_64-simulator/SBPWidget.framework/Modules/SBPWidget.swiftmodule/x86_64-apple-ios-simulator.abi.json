@@ -1,0 +1,1269 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "SBPWidget"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "SBPWidget"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SBPWidgetSDK",
+        "printedName": "SBPWidgetSDK",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SBPWidgetSDK",
+                "printedName": "SBPWidget.SBPWidgetSDK",
+                "usr": "s:9SBPWidget0A3SDKC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9SBPWidget0A3SDKC6sharedACvpZ",
+            "mangledName": "$s9SBPWidget0A3SDKC6sharedACvpZ",
+            "moduleName": "SBPWidget",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SBPWidgetSDK",
+                    "printedName": "SBPWidget.SBPWidgetSDK",
+                    "usr": "s:9SBPWidget0A3SDKC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9SBPWidget0A3SDKC6sharedACvgZ",
+                "mangledName": "$s9SBPWidget0A3SDKC6sharedACvgZ",
+                "moduleName": "SBPWidget",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "bankListViewController",
+            "printedName": "bankListViewController(paymentURL:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9SBPWidget0A3SDKC22bankListViewController10paymentURLSo06UIViewF0CSS_tKF",
+            "mangledName": "$s9SBPWidget0A3SDKC22bankListViewController10paymentURLSo06UIViewF0CSS_tKF",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentBankListViewController",
+            "printedName": "presentBankListViewController(paymentURL:parentViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9SBPWidget0A3SDKC29presentBankListViewController10paymentURL06parentfG0ySS_So06UIViewG0CtKF",
+            "mangledName": "$s9SBPWidget0A3SDKC29presentBankListViewController10paymentURL06parentfG0ySS_So06UIViewG0CtKF",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9SBPWidget0A3SDKC",
+        "mangledName": "$s9SBPWidget0A3SDKC",
+        "moduleName": "SBPWidget",
+        "intro_iOS": "13.0",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "Available"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SBPWidgetError",
+        "printedName": "SBPWidgetError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "invalidURLString",
+            "printedName": "invalidURLString",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SBPWidget.SBPWidgetError.Type) -> SBPWidget.SBPWidgetError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SBPWidgetError",
+                    "printedName": "SBPWidget.SBPWidgetError",
+                    "usr": "s:9SBPWidget0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SBPWidget.SBPWidgetError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SBPWidgetError",
+                        "printedName": "SBPWidget.SBPWidgetError",
+                        "usr": "s:9SBPWidget0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9SBPWidget0A5ErrorO16invalidURLStringyA2CmF",
+            "mangledName": "$s9SBPWidget0A5ErrorO16invalidURLStringyA2CmF",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "loadingFaild",
+            "printedName": "loadingFaild",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SBPWidget.SBPWidgetError.Type) -> SBPWidget.SBPWidgetError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SBPWidgetError",
+                    "printedName": "SBPWidget.SBPWidgetError",
+                    "usr": "s:9SBPWidget0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SBPWidget.SBPWidgetError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SBPWidgetError",
+                        "printedName": "SBPWidget.SBPWidgetError",
+                        "usr": "s:9SBPWidget0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9SBPWidget0A5ErrorO12loadingFaildyA2CmF",
+            "mangledName": "$s9SBPWidget0A5ErrorO12loadingFaildyA2CmF",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "presentationFailed",
+            "printedName": "presentationFailed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SBPWidget.SBPWidgetError.Type) -> SBPWidget.SBPWidgetError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SBPWidgetError",
+                    "printedName": "SBPWidget.SBPWidgetError",
+                    "usr": "s:9SBPWidget0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SBPWidget.SBPWidgetError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SBPWidgetError",
+                        "printedName": "SBPWidget.SBPWidgetError",
+                        "usr": "s:9SBPWidget0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9SBPWidget0A5ErrorO18presentationFailedyA2CmF",
+            "mangledName": "$s9SBPWidget0A5ErrorO18presentationFailedyA2CmF",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SBPWidgetError",
+                "printedName": "SBPWidget.SBPWidgetError",
+                "usr": "s:9SBPWidget0A5ErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SBPWidgetError",
+                "printedName": "SBPWidget.SBPWidgetError",
+                "usr": "s:9SBPWidget0A5ErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9SBPWidget0A5ErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9SBPWidget0A5ErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "SBPWidget",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9SBPWidget0A5ErrorO9hashValueSivp",
+            "mangledName": "$s9SBPWidget0A5ErrorO9hashValueSivp",
+            "moduleName": "SBPWidget",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9SBPWidget0A5ErrorO9hashValueSivg",
+                "mangledName": "$s9SBPWidget0A5ErrorO9hashValueSivg",
+                "moduleName": "SBPWidget",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9SBPWidget0A5ErrorO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9SBPWidget0A5ErrorO4hash4intoys6HasherVz_tF",
+            "moduleName": "SBPWidget",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9SBPWidget0A5ErrorO",
+        "mangledName": "$s9SBPWidget0A5ErrorO",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SBPWidgetBank",
+        "printedName": "SBPWidgetBank",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9SBPWidget0A4BankC4nameSSvp",
+            "mangledName": "$s9SBPWidget0A4BankC4nameSSvp",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9SBPWidget0A4BankC4nameSSvg",
+                "mangledName": "$s9SBPWidget0A4BankC4nameSSvg",
+                "moduleName": "SBPWidget",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "logoURL",
+            "printedName": "logoURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9SBPWidget0A4BankC7logoURL10Foundation0D0VSgvp",
+            "mangledName": "$s9SBPWidget0A4BankC7logoURL10Foundation0D0VSgvp",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.URL?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "URL",
+                        "printedName": "Foundation.URL",
+                        "usr": "s:10Foundation3URLV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9SBPWidget0A4BankC7logoURL10Foundation0D0VSgvg",
+                "mangledName": "$s9SBPWidget0A4BankC7logoURL10Foundation0D0VSgvg",
+                "moduleName": "SBPWidget",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dboLink",
+            "printedName": "dboLink",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9SBPWidget0A4BankC7dboLink10Foundation3URLVvp",
+            "mangledName": "$s9SBPWidget0A4BankC7dboLink10Foundation3URLVvp",
+            "moduleName": "SBPWidget",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9SBPWidget0A4BankC7dboLink10Foundation3URLVvg",
+                "mangledName": "$s9SBPWidget0A4BankC7dboLink10Foundation3URLVvg",
+                "moduleName": "SBPWidget",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "fetchAll",
+            "printedName": "fetchAll(paymentURL:receivOn:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "DispatchQueue",
+                "printedName": "Dispatch.DispatchQueue",
+                "usr": "c:objc(cs)OS_dispatch_queue"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<[SBPWidget.SBPWidgetBank], SBPWidget.SBPWidgetError>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<[SBPWidget.SBPWidgetBank], SBPWidget.SBPWidgetError>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[SBPWidget.SBPWidgetBank]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SBPWidgetBank",
+                            "printedName": "SBPWidget.SBPWidgetBank",
+                            "usr": "s:9SBPWidget0A4BankC"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SBPWidgetError",
+                        "printedName": "SBPWidget.SBPWidgetError",
+                        "usr": "s:9SBPWidget0A5ErrorO"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9SBPWidget0A4BankC8fetchAll10paymentURL8receivOn10completionySS_So17OS_dispatch_queueCys6ResultOySayACGAA0A5ErrorOGctKFZ",
+            "mangledName": "$s9SBPWidget0A4BankC8fetchAll10paymentURL8receivOn10completionySS_So17OS_dispatch_queueCys6ResultOySayACGAA0A5ErrorOGctKFZ",
+            "moduleName": "SBPWidget",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9SBPWidget0A4BankC",
+        "mangledName": "$s9SBPWidget0A4BankC",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SBPWidget",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 273,
+      "length": 15,
+      "value": "\"placeholder_0\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 299,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 311,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 331,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 383,
+      "length": 15,
+      "value": "\"placeholder_1\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 409,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 421,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 493,
+      "length": 15,
+      "value": "\"placeholder_2\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 519,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 531,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 551,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 603,
+      "length": 15,
+      "value": "\"placeholder_3\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 629,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 641,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 661,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 713,
+      "length": 15,
+      "value": "\"placeholder_5\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 739,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 771,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1152,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 317,
+      "length": 25,
+      "value": "\"LS.SBPWidget.footerText\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 380,
+      "length": 24,
+      "value": "\"LS.SBPWidget.emptyText\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 36,
+      "value": "\"LS.SBPWidget.searchPlaceholderText\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 531,
+      "length": 27,
+      "value": "\"LS.SBPWidget.openUrlError\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
+      "length": 20,
+      "value": "\"LS.SBPWidget.error\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 646,
+      "length": 20,
+      "value": "\"LS.SBPWidget.close\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 697,
+      "length": 17,
+      "value": "\"LS.SBPWidget.ok\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Localization\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
+      "length": 42,
+      "value": "\"LS.SBPWidget.emptyBankListFetchingResult\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/WidgetViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 652,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/WidgetViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 856,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/WidgetViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 995,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/UIKit\/UITableViewWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 1009,
+      "length": 11,
+      "value": "\"SBPWidget.Coordinator\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/WidgetView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 388,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/Common\/BankSearchingView.swift",
+      "kind": "StringLiteral",
+      "offset": 1225,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Extensions\/Color+Custom.swift",
+      "kind": "StringLiteral",
+      "offset": 206,
+      "length": 15,
+      "value": "\"MainTextColor\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Extensions\/Color+Custom.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 20,
+      "value": "\"SecondaryTextColor\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Extensions\/Color+Custom.swift",
+      "kind": "StringLiteral",
+      "offset": 359,
+      "length": 16,
+      "value": "\"MainBackground\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Extensions\/Color+Custom.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 21,
+      "value": "\"SecondaryBackground\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/Extensions\/Color+Custom.swift",
+      "kind": "StringLiteral",
+      "offset": 522,
+      "length": 23,
+      "value": "\"PlaceholderBackground\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2109,
+      "length": 18,
+      "value": "\"Сбербанк\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2154,
+      "length": 9,
+      "value": "\"http:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2189,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2328,
+      "length": 8,
+      "value": "\"ВТБ\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2363,
+      "length": 9,
+      "value": "\"http:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2398,
+      "length": 4,
+      "value": "\"qr\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2434,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/dmitry\/Desktop\/Widget\/sbp-widgets-ios\/SBPWidget\/UI\/BankList\/BankListView.swift",
+      "kind": "StringLiteral",
+      "offset": 2473,
+      "length": 6,
+      "value": "\"true\""
+    }
+  ]
+}
